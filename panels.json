@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Absen A27S 2.7mm",
+    "width": 0.5,
+    "height": 0.5625,
+    "power": 160,
+    "weight": 8.5
+  },
+  {
+    "name": "Absen PL2.9 2.9mm",
+    "width": 0.576,
+    "height": 0.576,
+    "power": 200,
+    "weight": 9.5
+  },
+  {
+    "name": "ROE Black Pearl 2.84mm",
+    "width": 0.5,
+    "height": 0.5625,
+    "power": 180,
+    "weight": 9.0
+  },
+  {
+    "name": "ROE CB5 5mm",
+    "width": 0.5,
+    "height": 1.0,
+    "power": 350,
+    "weight": 14.5
+  },
+  {
+    "name": "Unilumin UPAD III 2.9mm",
+    "width": 0.576,
+    "height": 0.576,
+    "power": 210,
+    "weight": 10.0
+  },
+  {
+    "name": "Leyard TWS2.8",
+    "width": 0.5,
+    "height": 0.5,
+    "power": 170,
+    "weight": 8.8
+  },
+  {
+    "name": "Generic 500x500mm",
+    "width": 0.5,
+    "height": 0.5,
+    "power": 150,
+    "weight": 8.0
+  },
+  {
+    "name": "Generic 500x1000mm",
+    "width": 0.5,
+    "height": 1.0,
+    "power": 300,
+    "weight": 16.0
+  }
+]
